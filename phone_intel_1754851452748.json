@@ -1,0 +1,34 @@
+{
+  "tool": "Hello OSINT",
+  "version": "2.0",
+  "scanned_at": "2025-08-10T18:43:16.501Z",
+  "input_number_raw": "+923186942576",
+  "phone_analysis": {
+    "e164": "+923186942576",
+    "national": "0318 6942576",
+    "international": "+92 318 6942576",
+    "country": "PK",
+    "country_code": 92,
+    "country_info": {
+      "name": "Pakistan",
+      "timezone": "UTC+5",
+      "currency": "PKR"
+    },
+    "carrier": "Unknown",
+    "type": "Mobile",
+    "is_valid": true,
+    "is_mobile": true
+  },
+  "web_intelligence": {
+    "socialLinks": [],
+    "publicProfiles": [],
+    "businessListings": [],
+    "publicRecords": [],
+    "notes": [],
+    "locationInfo": [],
+    "carrierInfo": []
+  },
+  "confidence_level": "Medium",
+  "total_findings": 0,
+  "_filePath": "C:\\Users\\Fabiha_Admin\\Desktop\\hello\\results\\hello_scan_2025-08-10T18-43-16-507Z.json"
+}

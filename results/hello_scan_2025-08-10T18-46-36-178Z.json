@@ -1,0 +1,33 @@
+{
+  "tool": "Hello OSINT",
+  "version": "2.0",
+  "scanned_at": "2025-08-10T18:46:36.174Z",
+  "input_number_raw": "+447342085233",
+  "phone_analysis": {
+    "e164": "+447342085233",
+    "national": "07342 085233",
+    "international": "+44 7342 085233",
+    "country": "GB",
+    "country_code": 44,
+    "country_info": {
+      "name": "Unknown",
+      "timezone": "Unknown",
+      "currency": "Unknown"
+    },
+    "carrier": "Unknown",
+    "type": "Mobile",
+    "is_valid": true,
+    "is_mobile": true
+  },
+  "web_intelligence": {
+    "socialLinks": [],
+    "publicProfiles": [],
+    "businessListings": [],
+    "publicRecords": [],
+    "notes": [],
+    "locationInfo": [],
+    "carrierInfo": []
+  },
+  "confidence_level": "Medium",
+  "total_findings": 0
+}
